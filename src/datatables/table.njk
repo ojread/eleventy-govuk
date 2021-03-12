@@ -1,0 +1,47 @@
+---
+parent: List of datatables
+pagination:
+  data: tables
+  size: 1
+  alias: table
+permalink: "/datatables/{{ table | slug }}/"
+renderData:
+  title: "{{ table }}"
+---
+
+<h1 class="govuk-heading-xl">{{ table }}</h1>
+
+<p class="govuk-body"><a href="/_data/tables/{{ table }}.csv">Download CSV</a></p>
+
+{# {{ tables[table] | dump }} #}
+
+{# <table class="datatable">
+  <thead>
+      <tr>
+        {% for key, data in tables[table][0] %}
+          <td>{{ key }}</td>
+        {% endfor %}
+      </tr>
+  </thead>
+  <tbody>
+    {% for row in tables[table] %}
+      <tr>
+        {% for key, data in row %}
+          <td>{{ data }}</td>
+        {% endfor %}
+      </tr>
+    {% endfor %}
+  </tbody>
+</table> #}
+
+{% from "govuk/components/table/macro.njk" import govukTable %}
+
+{% set tableData = tables[table] | toGovukTable %}
+
+{{ govukTable({
+  caption: table,
+  captionClasses: "govuk-table__caption--m",
+  classes: "datatable",
+  head: tableData.head,
+  rows: tableData.rows
+}) }}

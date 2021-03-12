@@ -1,6 +1,8 @@
 const Nunjucks = require("nunjucks");
 const sassPlugin = require("eleventy-plugin-sass");
 const navigationPlugin = require("@11ty/eleventy-navigation");
+const csvParse = require("csv-parse/lib/sync");
+// const XLSX = require("xlsx");
 
 module.exports = function (eleventyConfig) {
   // Create custom nunjucks instance that can see the govuk templates.
@@ -24,13 +26,31 @@ module.exports = function (eleventyConfig) {
   // Add the 11ty navigation plugin.
   eleventyConfig.addPlugin(navigationPlugin);
 
-  // Copy assets to the
-  eleventyConfig.addPassthroughCopy({
-    "src/assets/images": "assets/images",
+  // Load Excel files as data.
+  // eleventyConfig.addDataExtension("xlsx", (contents) => {
+  //   // XLSX.utils.sheet_to_csv // generates CSV
+  //   const workbook = XLSX.read(contents, { type: "buffer" });
+
+  //   // workbook.SheetNames
+
+  //   // const json = XLSX.utils.sheet_to_json(workbook.Sheets.Sheet1);
+  //   const csv = XLSX.utils.sheet_to_csv(workbook.Sheets.Sheet1);
+  //   console.log(csv);
+  //   return csv;
+  // });
+
+  // Load CSV files as data.
+  eleventyConfig.addDataExtension("csv", (contents) => {
+    const records = csvParse(contents, {
+      skip_empty_lines: true,
+    });
+    return records;
   });
 
-  // Copy assets from the govuk package to our site.
+  // Copy assets to the built site.
   eleventyConfig.addPassthroughCopy({
+    "src/assets/images": "assets/images",
+    "src/assets/scripts": "assets/scripts",
     "node_modules/govuk-frontend/govuk/assets/images": "assets/images",
     "node_modules/govuk-frontend/govuk/assets/fonts": "assets/fonts",
     "node_modules/govuk-frontend/govuk/all.js": "assets/scripts/all.js",
@@ -79,6 +99,21 @@ module.exports = function (eleventyConfig) {
     });
   });
 
+  eleventyConfig.addFilter("toGovukTable", function (records) {
+    const head = records[0].map((key) => {
+      return { text: key };
+    });
+    const rows = records.slice(1).map((record) =>
+      record.map((key) => {
+        return { text: key };
+      })
+    );
+    return {
+      head,
+      rows,
+    };
+  });
+
   // Basic 11ty options.
   return {
     dir: {
@@ -87,7 +122,6 @@ module.exports = function (eleventyConfig) {
       data: "_data",
       includes: "_includes",
       layouts: "_layouts",
-      layout: "page.njk",
     },
   };
 };

@@ -18,9 +18,13 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "@11ty/eleventy-navigation": "^0.1.6",
+    "csv-parse": "^4.15.3",
+    "datatables.net": "^1.10.24",
+    "datatables.net-dt": "^1.10.24",
     "eleventy-plugin-sass": "^1.2.0",
     "govuk-frontend": "^3.11.0",
     "nunjucks": "^3.2.3",
-    "prettier": "^2.2.1"
+    "prettier": "^2.2.1",
+    "xlsx": "^0.16.9"
   }
 }

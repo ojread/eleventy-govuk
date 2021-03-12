@@ -1,0 +1,17 @@
+---
+title: List of tables
+parent: Home
+pagination:
+    data: tables
+    size: 1000
+---
+
+<ol class="govuk-list">
+    {%- for table in pagination.items %}
+    <li>
+        <a href="/tables/{{ table | slug }}">
+            {{ table }}
+        </a>
+    </li>
+    {% endfor -%}
+</ol>
