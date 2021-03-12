@@ -1,0 +1,26 @@
+{
+  "name": "eleventy-govuk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "dev": "DEBUG=Eleventy* eleventy --serve",
+    "format": "prettier --write .",
+    "serve": "eleventy --serve",
+    "start": "npm run serve",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "eleventy --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1",
+    "@11ty/eleventy-navigation": "^0.1.6",
+    "eleventy-plugin-sass": "^1.2.0",
+    "govuk-frontend": "^3.11.0",
+    "nunjucks": "^3.2.3",
+    "prettier": "^2.2.1"
+  }
+}

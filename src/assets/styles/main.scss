@@ -1,0 +1,8 @@
+@import "node_modules/govuk-frontend/govuk/all";
+
+.app-masthead {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #fff;
+  background-color: govuk-colour("blue");
+}
