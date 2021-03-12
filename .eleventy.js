@@ -50,6 +50,7 @@ module.exports = function (eleventyConfig) {
   // Copy assets to the built site.
   eleventyConfig.addPassthroughCopy({
     "src/assets/images": "assets/images",
+    "src/assets/scripts": "assets/scripts",
     "node_modules/govuk-frontend/govuk/assets/images": "assets/images",
     "node_modules/govuk-frontend/govuk/assets/fonts": "assets/fonts",
     "node_modules/govuk-frontend/govuk/all.js": "assets/scripts/all.js",

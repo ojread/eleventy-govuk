@@ -1,10 +1,10 @@
 ---
-parent: List of tables
+parent: List of datatables
 pagination:
   data: tables
   size: 1
   alias: table
-permalink: "/tables/{{ table | slug }}/"
+permalink: "/datatables/{{ table | slug }}/"
 renderData:
   title: "{{ table }}"
 ---
@@ -41,6 +41,7 @@ renderData:
 {{ govukTable({
   caption: table,
   captionClasses: "govuk-table__caption--m",
+  classes: "datatable",
   head: tableData.head,
   rows: tableData.rows
 }) }}
