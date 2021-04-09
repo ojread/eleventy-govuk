@@ -10,7 +10,7 @@ layout: base
     </div>
 
     <div class="govuk-grid-column-two-thirds">
-        <h1 class="govuk-heading-xl">{{ title }}</h1>
+        <h1 class="govuk-heading-xl">{{ title | safe }}</h1>
         <div class="govuk-body">
             {{ content | safe }}
         </div>

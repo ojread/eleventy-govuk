@@ -1,10 +1,14 @@
 {% from "govuk/components/breadcrumbs/macro.njk" import govukBreadcrumbs %}
 
-{{ page.title }}
+{% if eleventyNavigation.key %}
+  {%
+    set breadcrumbs = collections.all
+    | eleventyNavigationBreadcrumb(eleventyNavigation.key)
+    | toGovukBreadcrumbs
+  %}
 
-{% set breadcrumbs = collections.all | eleventyNavigationBreadcrumb(title)| toGovukBreadcrumbs %}
-
-{{ govukBreadcrumbs({
-  items: breadcrumbs,
-  collapseOnMobile: true
-}) }}
+  {{ govukBreadcrumbs({
+    items: breadcrumbs,
+    collapseOnMobile: true
+  }) }}
+{% endif %}

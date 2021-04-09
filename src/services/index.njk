@@ -1,0 +1,42 @@
+---
+title: Services
+layout: page
+eleventyNavigation:
+    key: Services
+    parent: Home
+pagination:
+    data: esd.services
+    size: 10000
+    alias: services 
+---
+
+<ol>
+    {% for service in services %}
+        <li>
+            <a href="/services/{{ service.Identifier | slug }}-{{ service.Label | slug }}/">
+                {{ service["Label"] | safe }}
+            </a>
+        </li>
+    {% else %}
+        <li>No services</li>
+    {% endfor %}
+</ol>
+
+{# <p>{{ myTemplateString | safe }}</p>
+<p>{{ myString | safe }}</p>
+<p>{{ myFunction | safe }}</p>
+<p>{{ myPromise | safe }}</p> #}
+
+{# {{ pagination.items | dump }} #}
+
+{# <ol>
+    {% for service in topServices %}
+        <li>
+            <a href="/services/{{ service["skos:prefLabel"] | slug }}">
+                {{ service["skos:prefLabel"] | safe }}
+            </a>
+        </li>
+    {% else %}
+        <li>No services</li>
+    {% endfor %}
+</ol> #}

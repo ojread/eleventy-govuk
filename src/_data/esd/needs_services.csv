@@ -1,0 +1,667 @@
+Identifier,Label,Status,Description,Created,Modified,History notes,Type,Parent identifiers,Parent labels,Level 1,Level 2,Mapping type,Mapped identifier,Mapped label,Mapped status,Mapped type
+122,Business support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,,,,,,,,,
+85,Business premises,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1618,Business centres,Live,Service
+85,Business premises,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,93,Commercial lettings,Live,Service
+85,Business premises,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,900,Commercial property development,Live,Service
+85,Business premises,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,677,Vacant land and property,Live,Service
+88,Clean streets,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|122,Good living environment|Business support,Business support,,is addressed by,372,Abandoned vehicles,Live,Service
+88,Clean streets,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|122,Good living environment|Business support,Business support,,is addressed by,1172,Analytical chemist registration,Live,Service
+88,Clean streets,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|122,Good living environment|Business support,Business support,,is addressed by,518,Commercial waste spillage,Live,Service
+88,Clean streets,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|122,Good living environment|Business support,Business support,,is addressed by,576,Dead animal removal,Live,Service
+88,Clean streets,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|122,Good living environment|Business support,Business support,,is addressed by,1094,Dog  waste bins,Live,Service
+88,Clean streets,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|122,Good living environment|Business support,Business support,,is addressed by,577,Dog fouling,Live,Service
+88,Clean streets,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|122,Good living environment|Business support,Business support,,is addressed by,588,Flyposting,Live,Service
+88,Clean streets,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|122,Good living environment|Business support,Business support,,is addressed by,587,Flytipping,Live,Service
+88,Clean streets,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|122,Good living environment|Business support,Business support,,is addressed by,584,Graffiti removal,Live,Service
+88,Clean streets,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|122,Good living environment|Business support,Business support,,is addressed by,1473,Household waste accumulation,Live,Service
+88,Clean streets,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|122,Good living environment|Business support,Business support,,is addressed by,581,Litter bins,Live,Service
+88,Clean streets,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|122,Good living environment|Business support,Business support,,is addressed by,580,Litter removal,Live,Service
+88,Clean streets,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|122,Good living environment|Business support,Business support,,is addressed by,1744,Residential waste spillages,Live,Service
+88,Clean streets,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|122,Good living environment|Business support,Business support,,is addressed by,582,Street cleaning,Live,Service
+87,Consumer protection,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,787,Consumer advice,Live,Service
+87,Consumer protection,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,789,Fair trading,Live,Service
+87,Consumer protection,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,791,Food labelling,Live,Service
+87,Consumer protection,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,408,Food poisoning and contamination,Live,Service
+87,Consumer protection,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,407,Food safety enforcement,Live,Service
+87,Consumer protection,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,399,Illegal street trading,Live,Service
+87,Consumer protection,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,402,Product safety,Live,Service
+87,Consumer protection,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,1742,Public weighbridges,Live,Service
+87,Consumer protection,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,403,Retail trading standards,Live,Service
+87,Consumer protection,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,1597,Swimming pool and spa pool monitoring,Live,Service
+87,Consumer protection,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,1127,Trader approval schemes,Live,Service
+87,Consumer protection,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,401,Trading standards advice to businesses,Live,Service
+87,Consumer protection,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,1110,Trading standards education,Discontinued,Service
+87,Consumer protection,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,1125,Under age sales,Live,Service
+87,Consumer protection,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,404,Weights and measures,Live,Service
+11,Employment,Live,,2013-03-04,2013-03-04,,Need,122|107|9,Business support|Financial security|Financial support,Business support,,is addressed by,1618,Business centres,Live,Service
+11,Employment,Live,,2013-03-04,2013-03-04,,Need,122|107|9,Business support|Financial security|Financial support,Business support,,is addressed by,887,Careers advice,Live,Service
+11,Employment,Live,,2013-03-04,2013-03-04,,Need,122|107|9,Business support|Financial security|Financial support,Business support,,is addressed by,337,Current vacancies,Live,Service
+11,Employment,Live,,2013-03-04,2013-03-04,,Need,122|107|9,Business support|Financial security|Financial support,Business support,,is addressed by,1534,Employment and support allowance,Live,Service
+11,Employment,Live,,2013-03-04,2013-03-04,,Need,122|107|9,Business support|Financial security|Financial support,Business support,,is addressed by,343,Employment and training initiatives,Live,Service
+11,Employment,Live,,2013-03-04,2013-03-04,,Need,122|107|9,Business support|Financial security|Financial support,Business support,,is addressed by,846,Environmental health placements,Live,Service
+11,Employment,Live,,2013-03-04,2013-03-04,,Need,122|107|9,Business support|Financial security|Financial support,Business support,,is addressed by,344,Equal opportunities advice,Live,Service
+11,Employment,Live,,2013-03-04,2013-03-04,,Need,122|107|9,Business support|Financial security|Financial support,Business support,,is addressed by,1545,Jobseekers allowance,Live,Service
+11,Employment,Live,,2013-03-04,2013-03-04,,Need,122|107|9,Business support|Financial security|Financial support,Business support,,is addressed by,638,Sports employment,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,190,Benefits advice and assessment,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,1437,Carers allowance,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,1676,Child poverty needs assessment,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,64,Council tax benefit current claim,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,63,Council tax benefit new claim,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,59,Council tax discount,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,60,Council tax exemptions,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,352,Credit unions,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,137,Disabled facilities grant,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,1148,Discretionary Housing Payment,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,888,Early years grant,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,1534,Employment and support allowance,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,4,Free school meals,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,70,Housing benefit current claim,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,69,Housing benefit new claim,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,1545,Jobseekers allowance,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,269,Keeping warm in winter,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,1795,Local crisis payment,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,1147,Local Housing Allowance,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,50,Nursery education grant,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,2,School clothing grants/vouchers,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,3,School transport - additional support,Discontinued,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,1056,Special provision capital fund,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,1826,Test and Trace Support Payment,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,1652,Universal credit,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,189,Welfare rights advice,Live,Service
+9,Financial support,Live,,2013-03-04,2013-03-04,,Need,107|122,Financial security|Business support,Business support,,is addressed by,1116,Youth Opportunity Fund,Live,Service
+86,Health and safety at work,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,429,Accident reporting,Live,Service
+86,Health and safety at work,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,811,Construction site fire safety,Live,Service
+86,Health and safety at work,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,419,Health and safety regulation,Live,Service
+86,Health and safety at work,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,422,Health and safety training,Live,Service
+86,Health and safety at work,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,718,Occupational health services,Discontinued,Service
+86,Health and safety at work,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,752,Work health and safety advice and training,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,785,Abnormal load notification,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,650,Accommodation certificates,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,681,Acupuncturist registration,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,379,Auction premises licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,374,Boarding animals licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,741,Boatman's licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,383,Building materials licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,743,Caravan site licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,48,Child performance licences,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1069,Children's certificate,Discontinued,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1296,Civil marriage and civil partnership venue licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1683,Club gaming permit,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1684,Club machine permit,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,646,Club premises certificate,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1355,"Consent for cellars, pavement lights and ventilators under street",Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,707,Cooling tower registration,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,376,Dangerous animals licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,377,Dog breeding licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1328,Dry cleaning permit,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1729,Dual drivers licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1692,Early morning restrictions orders,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,796,Explosives licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1681,Family entertainment centre gaming machine permits,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,617,Farmers markets,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,426,Firework safety advice,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,384,Fireworks sales licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,390,Food business registration,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1293,Food premises approval,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,845,Food safety advice,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1134,Gambling premises licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1682,Gambling premises temporary use notices,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1357,Greyhound racing track licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,635,Hackney carriage (taxi) drivers licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,632,Hackney carriage (taxi) licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1655,Highway planting licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,744,Highway projection licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,898,Homes in multiple occupancy licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,648,House to house collection licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,391,Late night catering licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1348,Leaflet distribution consent,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1354,"Licence for bridges, buildings, beams and cables over or along highway",Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1687,Licensed premises gaming machine permit,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,782,Local markets,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,397,Lottery licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,679,Market event licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,616,Market stall rental,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,389,Massage and special treatment licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1294,Massage and special treatments therapist registration,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,866,Motor salvage operator registration,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1717,Moveable dwelling site licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1077,Performing animals licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1048,Permission to film and photograph,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1049,Permission to host events,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,910,Personal alcohol and entertainment licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,375,Pet shop licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1329,Petrol vapour recovery regulation,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,810,Petroleum storage licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,697,Petroleum storage licence/certificate,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1335,Pig movement notification,Discontinued,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,739,Pleasure boat licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,380,Poisons licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,708,Pollution control - Part A(2) and Part B processes,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,860,Premises licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,634,Private hire drivers licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,636,Private hire operators licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,633,Private hire vehicle (minicab) licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1685,Prize gaming permit,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1038,Registering business premises,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,696,Riding establishment licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,382,Scaffolding and hoarding licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,378,Scrap metal site registration,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,682,Second hand dealer registration,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1691,Selective area housing licences,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1690,Selective housing areas,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,740,Self drive boats licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,388,Sex establishment licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,706,Sheep and goat movement licence,Discontinued,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,695,Skip operator licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,521,Skip permits,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1330,Solvent emissions regulation,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,842,Sports grounds safety certificate,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1256,Sports stands safety certificate,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1160,Stage hypnotism licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,742,Street cafŽ licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,647,Street collection licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1580,Street parties permission,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,400,Street trading licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1295,Street works licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,678,Sunday trading notification,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,680,"Tattooist, piercing and electrolysis registration",Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1126,Taxi fare setting,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1071,Temporary event notice,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,844,Track betting licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1686,Track gambling premises occasional use notices,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1362,Verges permitted use,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,387,Voluntary sector transport licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,318,Wedding venue licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,843,Weighbridge operator licence,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,1705,Workplace parking levy,Live,Service
+123,Licences and permits,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122,Business support,Business support,,is addressed by,699,Zoo licence,Live,Service
+90,Parking,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|122,Mobility|Business support,Business support,,is addressed by,478,Council car parks,Live,Service
+90,Parking,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|122,Mobility|Business support,Business support,,is addressed by,274,Disabled parking bays,Live,Service
+90,Parking,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|122,Mobility|Business support,Business support,,is addressed by,279,Disabled parking permits,Live,Service
+90,Parking,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|122,Mobility|Business support,Business support,,is addressed by,114,Estate parking,Live,Service
+90,Parking,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|122,Mobility|Business support,Business support,,is addressed by,1725,Lorry parking,Live,Service
+90,Parking,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|122,Mobility|Business support,Business support,,is addressed by,1112,Park and ride,Live,Service
+90,Parking,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|122,Mobility|Business support,Business support,,is addressed by,474,Parking permits,Live,Service
+90,Parking,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|122,Mobility|Business support,Business support,,is addressed by,473,Parking zones,Live,Service
+90,Parking,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|122,Mobility|Business support,Business support,,is addressed by,475,Pavement parking,Live,Service
+90,Parking,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|122,Mobility|Business support,Business support,,is addressed by,479,Private car parks,Live,Service
+90,Parking,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|122,Mobility|Business support,Business support,,is addressed by,471,Street parking enforcement,Live,Service
+90,Parking,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|122,Mobility|Business support,Business support,,is addressed by,472,Vehicle clamping and removal,Live,Service
+89,Public transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|118|108|69,Business support|Mobility|Good living environment|Social inclusion,Business support,,is addressed by,1599,Bus lanes and routes,Live,Service
+89,Public transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|118|108|69,Business support|Mobility|Good living environment|Social inclusion,Business support,,is addressed by,637,Bus stops and shelters,Live,Service
+89,Public transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|118|108|69,Business support|Mobility|Good living environment|Social inclusion,Business support,,is addressed by,901,Demand responsive transport,Live,Service
+89,Public transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|118|108|69,Business support|Mobility|Good living environment|Social inclusion,Business support,,is addressed by,1715,Ferries,Live,Service
+89,Public transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|118|108|69,Business support|Mobility|Good living environment|Social inclusion,Business support,,is addressed by,902,Journey planning,Live,Service
+89,Public transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|118|108|69,Business support|Mobility|Good living environment|Social inclusion,Business support,,is addressed by,1112,Park and ride,Live,Service
+89,Public transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|118|108|69,Business support|Mobility|Good living environment|Social inclusion,Business support,,is addressed by,904,Planned transport service changes,Live,Service
+89,Public transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|118|108|69,Business support|Mobility|Good living environment|Social inclusion,Business support,,is addressed by,903,Real time transport information,Live,Service
+89,Public transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|118|108|69,Business support|Mobility|Good living environment|Social inclusion,Business support,,is addressed by,906,"Stations, stops and shelters",Live,Service
+89,Public transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|118|108|69,Business support|Mobility|Good living environment|Social inclusion,Business support,,is addressed by,905,Transport service disruption information,Live,Service
+89,Public transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|118|108|69,Business support|Mobility|Good living environment|Social inclusion,Business support,,is addressed by,907,Transport tickets and passes,Live,Service
+89,Public transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|118|108|69,Business support|Mobility|Good living environment|Social inclusion,Business support,,is addressed by,908,Transport timetable information,Live,Service
+54,Training and skills,Live,,2013-03-04,2013-03-04,,Need,51|107|122,Education|Financial security|Business support,Business support,,is addressed by,27,Adult education and learning,Live,Service
+54,Training and skills,Live,,2013-03-04,2013-03-04,,Need,51|107|122,Education|Financial security|Business support,Business support,,is addressed by,239,Disabled people - employment and training schemes,Live,Service
+54,Training and skills,Live,,2013-03-04,2013-03-04,,Need,51|107|122,Education|Financial security|Business support,Business support,,is addressed by,343,Employment and training initiatives,Live,Service
+54,Training and skills,Live,,2013-03-04,2013-03-04,,Need,51|107|122,Education|Financial security|Business support,Business support,,is addressed by,1394,Support when leaving education,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,528,Bulky household waste collections,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,859,Clinical household waste,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,523,Commercial  clinical waste disposal,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,519,Commercial waste bins,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,517,Commercial waste collection,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,520,Commercial waste disposal sites,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,522,Commercial waste special collections,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,518,Commercial waste spillage,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,850,Hazardous waste collection,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,530,Household garden waste,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,1473,Household waste accumulation,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,854,Household waste assisted collection,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,524,Household waste collection,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,526,Household waste containers,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,531,Household waste disposal sites,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,1470,Household waste enforcement,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,1744,Residential waste spillages,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,689,Skip hire,Live,Service
+91,Waste disposal,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,122|108,Business support|Good living environment,Business support,,is addressed by,428,Syringe disposal,Live,Service
+6,Democracy,Live,,2013-03-04,2013-03-04,,Need,,,,,,,,,
+8,Ability to vote,Live,,2013-03-04,2013-03-04,,Need,6,Democracy,Democracy,,is addressed by,364,Electoral register,Live,Service
+8,Ability to vote,Live,,2013-03-04,2013-03-04,,Need,6,Democracy,Democracy,,is addressed by,1013,Postal voting,Live,Service
+8,Ability to vote,Live,,2013-03-04,2013-03-04,,Need,6,Democracy,Democracy,,is addressed by,361,Proxy voting,Live,Service
+8,Ability to vote,Live,,2013-03-04,2013-03-04,,Need,6,Democracy,Democracy,,is addressed by,362,Voting,Live,Service
+5,Equality,Live,,2013-03-04,2013-03-04,,Need,6,Democracy,Democracy,,is addressed by,861,Equality and diversity,Live,Service
+41,To be listened to,Live,,2013-03-04,2013-03-04,,Need,6,Democracy,Democracy,,is addressed by,645,Complaints advocacy,Live,Service
+41,To be listened to,Live,,2013-03-04,2013-03-04,,Need,6,Democracy,Democracy,,is addressed by,353,Complaints procedure,Live,Service
+41,To be listened to,Live,,2013-03-04,2013-03-04,,Need,6,Democracy,Democracy,,is addressed by,1536,Customer feedback and suggestions,Live,Service
+41,To be listened to,Live,,2013-03-04,2013-03-04,,Need,6,Democracy,Democracy,,is addressed by,653,Customer satisfaction surveys,Live,Service
+41,To be listened to,Live,,2013-03-04,2013-03-04,,Need,6,Democracy,Democracy,,is addressed by,630,School complaints procedure,Live,Service
+51,Education,Live,,2013-03-04,2013-03-04,,Need,,,,,is addressed by,1,Home schooling,Live,Service
+51,Education,Live,,2013-03-04,2013-03-04,,Need,,,,,is addressed by,32,School curriculum,Live,Service
+94,Adult education,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,27,Adult education and learning,Live,Service
+98,Alternative education,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,1765,Alternative provision of education,Live,Service
+98,Alternative education,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,1,Home schooling,Live,Service
+98,Alternative education,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,1766,Pupil referral unit,Live,Service
+96,Digital skills,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,27,Adult education and learning,Live,Service
+96,Digital skills,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,239,Disabled people - employment and training schemes,Live,Service
+96,Digital skills,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,343,Employment and training initiatives,Live,Service
+95,Evening classes,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,27,Adult education and learning,Live,Service
+95,Evening classes,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,1791,Arts  and creative classes,Live,Service
+95,Evening classes,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,1789,Exercise and fitness classes,Live,Service
+93,Higher education,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,1614,16 to 19 bursary fund,Live,Service
+93,Higher education,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,1135,Education transport for 16-19 year olds,Live,Service
+99,Nursery education,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,53,Children's centres,Live,Service
+99,Nursery education,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,888,Early years grant,Live,Service
+99,Nursery education,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,50,Nursery education grant,Live,Service
+99,Nursery education,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,12,Nursery school places,Live,Service
+92,School places,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,17,Local schools,Live,Service
+92,School places,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,12,Nursery school places,Live,Service
+92,School places,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,13,Primary school places,Live,Service
+92,School places,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,705,School admission appeals,Live,Service
+92,School places,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,14,Secondary school places,Live,Service
+119,School transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51|118,Education|Mobility,Education,,is addressed by,1135,Education transport for 16-19 year olds,Live,Service
+119,School transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51|118,Education|Mobility,Education,,is addressed by,891,School transport,Live,Service
+119,School transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51|118,Education|Mobility,Education,,is addressed by,3,School transport - additional support,Discontinued,Service
+119,School transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51|118,Education|Mobility,Education,,is addressed by,40,Special educational needs transport,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,642,Activities for children and young people,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,162,Advocacy for carers,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,1765,Alternative provision of education,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,1755,Carers assessment,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,53,Children's centres,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,645,Complaints advocacy,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,1741,Early education for 2 year olds,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,8,"Education, health and care (EHC) plan",Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,1579,Family information services,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,1,Home schooling,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,241,Inclusive leisure and social activities,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,1772,Integrated family support,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,7,"Psychological, psychiatric or social work services in schools",Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,1766,Pupil referral unit,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,890,School nursing,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,1787,Sensory rooms and activities,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,9,Special educational needs assessment,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,10,Special educational needs placement in mainstream school,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,40,Special educational needs transport,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,205,Specialist equipment and support for disabled people,Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,1788,"Speech, language and communication therapy",Live,Service
+97,Special educational needs (SEN),Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,51,Education,Education,,is addressed by,643,Young people's organised activities,Discontinued,Service
+100,Family support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,,,,,,,,,
+48,Access to advocacy,Live,,2013-03-04,2013-03-04,,Need,107|121|69|110|100,Financial security|Safe and appropriate home|Social inclusion|Improved health and wellbeing|Family support,Family support,,is addressed by,162,Advocacy for carers,Live,Service
+48,Access to advocacy,Live,,2013-03-04,2013-03-04,,Need,107|121|69|110|100,Financial security|Safe and appropriate home|Social inclusion|Improved health and wellbeing|Family support,Family support,,is addressed by,728,Advocacy for social care clients,Live,Service
+48,Access to advocacy,Live,,2013-03-04,2013-03-04,,Need,107|121|69|110|100,Financial security|Safe and appropriate home|Social inclusion|Improved health and wellbeing|Family support,Family support,,is addressed by,645,Complaints advocacy,Live,Service
+48,Access to advocacy,Live,,2013-03-04,2013-03-04,,Need,107|121|69|110|100,Financial security|Safe and appropriate home|Social inclusion|Improved health and wellbeing|Family support,Family support,,is addressed by,163,Counselling,Live,Service
+48,Access to advocacy,Live,,2013-03-04,2013-03-04,,Need,107|121|69|110|100,Financial security|Safe and appropriate home|Social inclusion|Improved health and wellbeing|Family support,Family support,,is addressed by,169,Translation and interpreting,Live,Service
+102,Ante natal care,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100,Family support,Family support,,is addressed by,927,Midwifery and maternity services,Live,Service
+80,Child care,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,19,Childcare out of school hours,Live,Service
+80,Child care,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,20,Childminding and day care,Live,Service
+80,Child care,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,53,Children's centres,Live,Service
+80,Child care,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,888,Early years grant,Live,Service
+80,Child care,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,1282,Educational support for looked after children,Live,Service
+80,Child care,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,264,Hospice care for children and young people,Live,Service
+80,Child care,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,50,Nursery education grant,Live,Service
+80,Child care,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,12,Nursery school places,Live,Service
+80,Child care,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,263,Residential care for children and young people,Live,Service
+80,Child care,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,260,Respite care for children and young people,Live,Service
+80,Child care,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,18,School holiday schemes,Live,Service
+80,Child care,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,261,Shared care for children and young people,Live,Service
+80,Child care,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,840,Support for children in care,Live,Service
+60,Child protection,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,1769,Care order,Live,Service
+60,Child protection,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,1723,Care plan,Live,Service
+60,Child protection,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,1780,Child assessment order,Live,Service
+60,Child protection,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,1726,Child employment registration,Live,Service
+60,Child protection,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,1676,Child poverty needs assessment,Live,Service
+60,Child protection,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,266,Child protection,Live,Service
+60,Child protection,Live,,2013-03-04,2013-03-04,,Need,100,Family support,Family support,,is addressed by,310,Child protection orders,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,1466,Accessibility of local facilities,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,147,Assisted garden maintenance,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,280,Bus passes for disabled or older people,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,297,Community support groups and organisations,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,61,Council tax band reductions,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,901,Demand responsive transport,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,137,Disabled facilities grant,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,274,Disabled parking bays,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,279,Disabled parking permits,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,239,Disabled people - employment and training schemes,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,299,Disabled people employment advice,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,275,Disabled taxi card,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,178,Home adaptations and aids,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,1054,Housing Care and Repair scheme,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,456,Leisure passes,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,276,Motability scheme,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,1615,RADAR keys for public toilets,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,221,Rail cards for disabled or older people,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,1787,Sensory rooms and activities,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,107,Sheltered and supported housing,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,1790,Short breaks,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,865,Special needs library facilities,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,1056,Special provision capital fund,Live,Service
+103,Disabilities and special needs support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,1788,"Speech, language and communication therapy",Live,Service
+106,End of life support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,1538,Cemeteries and crematoria,Live,Service
+106,End of life support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,875,Civil funerals,Live,Service
+106,End of life support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,324,Death - historical searches,Discontinued,Service
+106,End of life support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,321,Death registration,Live,Service
+106,End of life support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,335,Funeral records,Live,Service
+106,End of life support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,333,Grave purchasing,Live,Service
+106,End of life support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,825,Independent funerals,Discontinued,Service
+106,End of life support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,334,Memorial construction,Live,Service
+106,End of life support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,325,Mortuaries,Live,Service
+106,End of life support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,329,Municipal funerals,Live,Service
+106,End of life support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,327,Repatriation of bodies abroad,Live,Service
+106,End of life support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,326,Repatriation of bodies to England and Wales,Live,Service
+106,End of life support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|110,Family support|Improved health and wellbeing,Family support,,is addressed by,322,Stillbirth registration,Live,Service
+101,Help with care,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|100,Improved health and wellbeing|Family support,Family support,,is addressed by,225,Adult carers advice and support,Live,Service
+101,Help with care,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|100,Improved health and wellbeing|Family support,Family support,,is addressed by,732,Alternative care providers,Live,Service
+101,Help with care,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|100,Improved health and wellbeing|Family support,Family support,,is addressed by,1437,Carers allowance,Live,Service
+101,Help with care,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|100,Improved health and wellbeing|Family support,Family support,,is addressed by,1755,Carers assessment,Live,Service
+101,Help with care,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|100,Improved health and wellbeing|Family support,Family support,,is addressed by,298,Carers support groups,Live,Service
+101,Help with care,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|100,Improved health and wellbeing|Family support,Family support,,is addressed by,227,Respite care for adults,Live,Service
+101,Help with care,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|100,Improved health and wellbeing|Family support,Family support,,is addressed by,260,Respite care for children and young people,Live,Service
+101,Help with care,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|100,Improved health and wellbeing|Family support,Family support,,is addressed by,261,Shared care for children and young people,Live,Service
+101,Help with care,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|100,Improved health and wellbeing|Family support,Family support,,is addressed by,1790,Short breaks,Live,Service
+101,Help with care,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|100,Improved health and wellbeing|Family support,Family support,,is addressed by,300,Young carers support,Live,Service
+104,Parenting support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100,Family support,Family support,,is addressed by,53,Children's centres,Live,Service
+104,Parenting support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100,Family support,Family support,,is addressed by,1579,Family information services,Live,Service
+104,Parenting support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100,Family support,Family support,,is addressed by,831,Family support groups and organisations,Live,Service
+104,Parenting support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100,Family support,Family support,,is addressed by,264,Hospice care for children and young people,Live,Service
+104,Parenting support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100,Family support,Family support,,is addressed by,1772,Integrated family support,Live,Service
+104,Parenting support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100,Family support,Family support,,is addressed by,260,Respite care for children and young people,Live,Service
+104,Parenting support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100,Family support,Family support,,is addressed by,229,Shared care for adults,Live,Service
+104,Parenting support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100,Family support,Family support,,is addressed by,261,Shared care for children and young people,Live,Service
+104,Parenting support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100,Family support,Family support,,is addressed by,1790,Short breaks,Live,Service
+105,Youth support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|69|121,Family support|Social inclusion|Safe and appropriate home,Family support,,is addressed by,642,Activities for children and young people,Live,Service
+105,Youth support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|69|121,Family support|Social inclusion|Safe and appropriate home,Family support,,is addressed by,700,Advice for young people,Live,Service
+105,Youth support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|69|121,Family support|Social inclusion|Safe and appropriate home,Family support,,is addressed by,1772,Integrated family support,Live,Service
+105,Youth support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|69|121,Family support|Social inclusion|Safe and appropriate home,Family support,,is addressed by,837,Preventative services for children and young people,Live,Service
+105,Youth support,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,100|69|121,Family support|Social inclusion|Safe and appropriate home,Family support,,is addressed by,643,Young people's organised activities,Discontinued,Service
+107,Financial security,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,,,,,,,,,
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,650,Accommodation certificates,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,1142,Caretaking,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,122,Communal heating charge,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,913,Empty residential properties,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,115,Garage lettings,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,123,Home contents insurance,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,112,Homelessness support,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,1714,Hostels and emergency accommodation,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,912,House clearance and re-housing,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,87,Housing association  nomination and registration,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,120,Housing rent,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,148,Housing rent setting,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,1771,Housing service charges,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,91,Housing tenant support,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,119,Late tenancy arrears,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,665,New tenant support,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,157,Property deeds,Discontinued,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,92,Registering for a council property,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,116,Rent arrears,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,107,Sheltered and supported housing,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,1012,Tenant participation,Live,Service
+42,Housing support,Live,,2013-03-04,2013-03-04,,Need,121|107,Safe and appropriate home|Financial security,Financial security,,is addressed by,101,Unauthorised house occupants,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,657,Alley gating,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,800,Arson reduction,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,1783,Channel early intervention scheme,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,793,Civil emergencies - flooding,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,792,Civil emergencies - major accident hazards,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,1750,Civil injunction,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,802,Community fire safety,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,1752,Community protection notice,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,870,Community safety,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,1044,Community wardens,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,1782,Counter terrorism (Prevent),Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,1696,Criminal behaviour order,Discontinued,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,812,Fire safety education,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,1612,Flood prevention,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,1796,Gas safety inspection,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,1119,Home fire safety check,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,423,Home safety advice,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,97,Housing crime support,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,99,Housing estate safety,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,98,Housing nuisance,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,1373,Needle exchange,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,1156,Neighbourhood policing,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,1586,Play streets,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,164,Protection from harm,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,498,Town centre CCTV,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,497,Town centre crime prevention,Live,Service
+18,Safe living environment,Live,,2013-03-04,2013-03-04,,Need,108|110|73|14|42|121,Good living environment|Improved health and wellbeing|Somewhere to live|Freedom from crime/fear of crime|Housing support|Safe and appropriate home,Financial security,Housing support,is addressed by,586,Vandalism prevention,Live,Service
+108,Good living environment,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,,,,,,,,,
+14,Freedom from crime/fear of crime,Live,,2013-03-04,2013-03-04,,Need,108,Good living environment,Good living environment,,is addressed by,1783,Channel early intervention scheme,Live,Service
+14,Freedom from crime/fear of crime,Live,,2013-03-04,2013-03-04,,Need,108,Good living environment,Good living environment,,is addressed by,870,Community safety,Live,Service
+14,Freedom from crime/fear of crime,Live,,2013-03-04,2013-03-04,,Need,108,Good living environment,Good living environment,,is addressed by,1044,Community wardens,Live,Service
+14,Freedom from crime/fear of crime,Live,,2013-03-04,2013-03-04,,Need,108,Good living environment,Good living environment,,is addressed by,1782,Counter terrorism (Prevent),Live,Service
+14,Freedom from crime/fear of crime,Live,,2013-03-04,2013-03-04,,Need,108,Good living environment,Good living environment,,is addressed by,1133,Hate crime,Live,Service
+14,Freedom from crime/fear of crime,Live,,2013-03-04,2013-03-04,,Need,108,Good living environment,Good living environment,,is addressed by,99,Housing estate safety,Live,Service
+14,Freedom from crime/fear of crime,Live,,2013-03-04,2013-03-04,,Need,108,Good living environment,Good living environment,,is addressed by,98,Housing nuisance,Live,Service
+14,Freedom from crime/fear of crime,Live,,2013-03-04,2013-03-04,,Need,108,Good living environment,Good living environment,,is addressed by,1156,Neighbourhood policing,Live,Service
+14,Freedom from crime/fear of crime,Live,,2013-03-04,2013-03-04,,Need,108,Good living environment,Good living environment,,is addressed by,164,Protection from harm,Live,Service
+14,Freedom from crime/fear of crime,Live,,2013-03-04,2013-03-04,,Need,108,Good living environment,Good living environment,,is addressed by,1753,Public Spaces Protection Order,Live,Service
+14,Freedom from crime/fear of crime,Live,,2013-03-04,2013-03-04,,Need,108,Good living environment,Good living environment,,is addressed by,497,Town centre crime prevention,Live,Service
+14,Freedom from crime/fear of crime,Live,,2013-03-04,2013-03-04,,Need,108,Good living environment,Good living environment,,is addressed by,586,Vandalism prevention,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,760,Coastal events,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,649,Common land and village greens,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,746,Community farms,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,745,Countryside conservation,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,468,Countryside events,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,466,Countryside facilities,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,702,Countryside management,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,469,Countryside visitor centres,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,495,Environmental policy,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,751,Field study centres,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,748,Forest and woodland management,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,464,Grazing land,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,1540,Nature reserves,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,1118,Open access land,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,1793,Outdoor activities,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,463,Outdoor events,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,670,Outdoor play facilities,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,669,Parks and open space landscaping,Discontinued,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,709,Parks and open space maintenance and landscaping,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,461,Parks and open spaces,Live,Service
+68,Open spaces,Live,,2013-03-04,2013-03-04,,Need,108|65,Good living environment|Leisure activities,Good living environment,,is addressed by,1724,Smallholdings,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,539,Cycle lanes and routes,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,547,Cycle training,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,546,Cycling and walking to school schemes,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,545,Dangerous road improvements,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,783,Driver training,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,537,Pavement maintenance,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,568,Pedestrian crossings,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,1586,Play streets,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,561,Road gritting,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,557,Road maintenance,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,784,Road safety cameras,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,540,Road signs,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,573,School crossing patrols,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,562,Snow clearance,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,543,Speed humps,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,571,Speed limits,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,564,Street lighting,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,567,Traffic lights,Live,Service
+109,Safe roads,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,108|118,Good living environment|Mobility,Good living environment,,is addressed by,548,Traffic schemes,Live,Service
+110,Improved health and wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,,,,,,,,,
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,727,Alcohol advice and support,Live,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,1749,Contraception,Live,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,730,Drugs advice and support,Live,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,1789,Exercise and fitness classes,Live,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,199,Health advice,Live,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,1747,Health checks,Live,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,202,HIV / AIDS support for adults,Live,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,833,Leaving hospital,Live,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,1284,Mental health support,Live,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,927,Midwifery and maternity services,Live,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,336,Municipal golf courses,Live,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,718,Occupational health services,Discontinued,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,180,Occupational therapy,Live,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,1793,Outdoor activities,Live,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,731,Safeguarding vulnerable adults,Live,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,641,Sports clubs and groups,Live,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,451,Sports facilities,Live,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,1746,Stopping smoking,Live,Service
+27,Better health,Live,,2013-03-04,2013-03-04,,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,1674,Swimming pools and water based activities,Live,Service
+34,Dealing with chronic illness,Live,,2013-03-04,2013-03-04,,Need,27|110,Better health|Improved health and wellbeing,Improved health and wellbeing,Better health,is addressed by,293,Adult hospice care,Live,Service
+34,Dealing with chronic illness,Live,,2013-03-04,2013-03-04,,Need,27|110,Better health|Improved health and wellbeing,Improved health and wellbeing,Better health,is addressed by,292,Adult residential care,Live,Service
+34,Dealing with chronic illness,Live,,2013-03-04,2013-03-04,,Need,27|110,Better health|Improved health and wellbeing,Improved health and wellbeing,Better health,is addressed by,242,Care at home,Live,Service
+34,Dealing with chronic illness,Live,,2013-03-04,2013-03-04,,Need,27|110,Better health|Improved health and wellbeing,Improved health and wellbeing,Better health,is addressed by,313,Community alarms and Telecare,Live,Service
+34,Dealing with chronic illness,Live,,2013-03-04,2013-03-04,,Need,27|110,Better health|Improved health and wellbeing,Improved health and wellbeing,Better health,is addressed by,1747,Health checks,Live,Service
+34,Dealing with chronic illness,Live,,2013-03-04,2013-03-04,,Need,27|110,Better health|Improved health and wellbeing,Improved health and wellbeing,Better health,is addressed by,178,Home adaptations and aids,Live,Service
+34,Dealing with chronic illness,Live,,2013-03-04,2013-03-04,,Need,27|110,Better health|Improved health and wellbeing,Improved health and wellbeing,Better health,is addressed by,271,Incontinence laundry service,Live,Service
+34,Dealing with chronic illness,Live,,2013-03-04,2013-03-04,,Need,27|110,Better health|Improved health and wellbeing,Improved health and wellbeing,Better health,is addressed by,833,Leaving hospital,Live,Service
+34,Dealing with chronic illness,Live,,2013-03-04,2013-03-04,,Need,27|110,Better health|Improved health and wellbeing,Improved health and wellbeing,Better health,is addressed by,1284,Mental health support,Live,Service
+34,Dealing with chronic illness,Live,,2013-03-04,2013-03-04,,Need,27|110,Better health|Improved health and wellbeing,Improved health and wellbeing,Better health,is addressed by,315,Mobile meals,Live,Service
+34,Dealing with chronic illness,Live,,2013-03-04,2013-03-04,,Need,27|110,Better health|Improved health and wellbeing,Improved health and wellbeing,Better health,is addressed by,107,Sheltered and supported housing,Live,Service
+36,Improving mental health,Live,,2013-03-04,2013-03-04,,Need,110|27,Improved health and wellbeing|Better health,Improved health and wellbeing,Better health,is addressed by,163,Counselling,Live,Service
+36,Improving mental health,Live,,2013-03-04,2013-03-04,,Need,110|27,Improved health and wellbeing|Better health,Improved health and wellbeing,Better health,is addressed by,241,Inclusive leisure and social activities,Live,Service
+36,Improving mental health,Live,,2013-03-04,2013-03-04,,Need,110|27,Improved health and wellbeing|Better health,Improved health and wellbeing,Better health,is addressed by,1284,Mental health support,Live,Service
+36,Improving mental health,Live,,2013-03-04,2013-03-04,,Need,110|27,Improved health and wellbeing|Better health,Improved health and wellbeing,Better health,is addressed by,164,Protection from harm,Live,Service
+36,Improving mental health,Live,,2013-03-04,2013-03-04,,Need,110|27,Improved health and wellbeing|Better health,Improved health and wellbeing,Better health,is addressed by,7,"Psychological, psychiatric or social work services in schools",Live,Service
+36,Improving mental health,Live,,2013-03-04,2013-03-04,,Need,110|27,Improved health and wellbeing|Better health,Improved health and wellbeing,Better health,is addressed by,731,Safeguarding vulnerable adults,Live,Service
+36,Improving mental health,Live,,2013-03-04,2013-03-04,,Need,110|27,Improved health and wellbeing|Better health,Improved health and wellbeing,Better health,is addressed by,1794,Skills for living,Live,Service
+33,Nursing care,Live,,2013-03-04,2013-03-04,,Need,110|27,Improved health and wellbeing|Better health,Improved health and wellbeing,Better health,is addressed by,293,Adult hospice care,Live,Service
+33,Nursing care,Live,,2013-03-04,2013-03-04,,Need,110|27,Improved health and wellbeing|Better health,Improved health and wellbeing,Better health,is addressed by,292,Adult residential care,Live,Service
+33,Nursing care,Live,,2013-03-04,2013-03-04,,Need,110|27,Improved health and wellbeing|Better health,Improved health and wellbeing,Better health,is addressed by,264,Hospice care for children and young people,Live,Service
+33,Nursing care,Live,,2013-03-04,2013-03-04,,Need,110|27,Improved health and wellbeing|Better health,Improved health and wellbeing,Better health,is addressed by,833,Leaving hospital,Live,Service
+33,Nursing care,Live,,2013-03-04,2013-03-04,,Need,110|27,Improved health and wellbeing|Better health,Improved health and wellbeing,Better health,is addressed by,263,Residential care for children and young people,Live,Service
+79,Care at home,Live,,2013-03-04,2013-03-04,,Need,121|110,Safe and appropriate home|Improved health and wellbeing,Improved health and wellbeing,,is addressed by,1757,Adult care plan,Live,Service
+79,Care at home,Live,,2013-03-04,2013-03-04,,Need,121|110,Safe and appropriate home|Improved health and wellbeing,Improved health and wellbeing,,is addressed by,147,Assisted garden maintenance,Live,Service
+79,Care at home,Live,,2013-03-04,2013-03-04,,Need,121|110,Safe and appropriate home|Improved health and wellbeing,Improved health and wellbeing,,is addressed by,242,Care at home,Live,Service
+79,Care at home,Live,,2013-03-04,2013-03-04,,Need,121|110,Safe and appropriate home|Improved health and wellbeing,Improved health and wellbeing,,is addressed by,209,Care needs assessment,Live,Service
+79,Care at home,Live,,2013-03-04,2013-03-04,,Need,121|110,Safe and appropriate home|Improved health and wellbeing,Improved health and wellbeing,,is addressed by,313,Community alarms and Telecare,Live,Service
+79,Care at home,Live,,2013-03-04,2013-03-04,,Need,121|110,Safe and appropriate home|Improved health and wellbeing,Improved health and wellbeing,,is addressed by,287,Direct payments,Live,Service
+79,Care at home,Live,,2013-03-04,2013-03-04,,Need,121|110,Safe and appropriate home|Improved health and wellbeing,Improved health and wellbeing,,is addressed by,178,Home adaptations and aids,Live,Service
+79,Care at home,Live,,2013-03-04,2013-03-04,,Need,121|110,Safe and appropriate home|Improved health and wellbeing,Improved health and wellbeing,,is addressed by,271,Incontinence laundry service,Live,Service
+79,Care at home,Live,,2013-03-04,2013-03-04,,Need,121|110,Safe and appropriate home|Improved health and wellbeing,Improved health and wellbeing,,is addressed by,204,Independence support for disabled people,Live,Service
+79,Care at home,Live,,2013-03-04,2013-03-04,,Need,121|110,Safe and appropriate home|Improved health and wellbeing,Improved health and wellbeing,,is addressed by,269,Keeping warm in winter,Live,Service
+79,Care at home,Live,,2013-03-04,2013-03-04,,Need,121|110,Safe and appropriate home|Improved health and wellbeing,Improved health and wellbeing,,is addressed by,833,Leaving hospital,Live,Service
+79,Care at home,Live,,2013-03-04,2013-03-04,,Need,121|110,Safe and appropriate home|Improved health and wellbeing,Improved health and wellbeing,,is addressed by,315,Mobile meals,Live,Service
+79,Care at home,Live,,2013-03-04,2013-03-04,,Need,121|110,Safe and appropriate home|Improved health and wellbeing,Improved health and wellbeing,,is addressed by,180,Occupational therapy,Live,Service
+79,Care at home,Live,,2013-03-04,2013-03-04,,Need,121|110,Safe and appropriate home|Improved health and wellbeing,Improved health and wellbeing,,is addressed by,312,Out of hours social care,Live,Service
+79,Care at home,Live,,2013-03-04,2013-03-04,,Need,121|110,Safe and appropriate home|Improved health and wellbeing,Improved health and wellbeing,,is addressed by,261,Shared care for children and young people,Live,Service
+79,Care at home,Live,,2013-03-04,2013-03-04,,Need,121|110,Safe and appropriate home|Improved health and wellbeing,Improved health and wellbeing,,is addressed by,205,Specialist equipment and support for disabled people,Live,Service
+114,Dealing with substance abuse,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,727,Alcohol advice and support,Live,Service
+114,Dealing with substance abuse,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,730,Drugs advice and support,Live,Service
+114,Dealing with substance abuse,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,199,Health advice,Live,Service
+114,Dealing with substance abuse,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,1746,Stopping smoking,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,642,Activities for children and young people,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,640,Activities for older people,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,27,Adult education and learning,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,700,Advice for young people,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,190,Benefits advice and assessment,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,313,Community alarms and Telecare,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,272,Community and accessible transport,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,1149,Community centres,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,297,Community support groups and organisations,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,163,Counselling,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,296,Day centres,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,651,Debt counselling,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,423,Home safety advice,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,241,Inclusive leisure and social activities,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,1772,Integrated family support,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,1284,Mental health support,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,164,Protection from harm,Live,Service
+111,Emotional wellbeing,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110|69,Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,189,Welfare rights advice,Live,Service
+113,Losing weight/Healthy eating,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,1789,Exercise and fitness classes,Live,Service
+113,Losing weight/Healthy eating,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,199,Health advice,Live,Service
+113,Losing weight/Healthy eating,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,1793,Outdoor activities,Live,Service
+113,Losing weight/Healthy eating,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,451,Sports facilities,Live,Service
+67,Sports and physical activity,Live,,2013-03-04,2013-03-04,,Need,65|110|69,Leisure activities|Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,642,Activities for children and young people,Live,Service
+67,Sports and physical activity,Live,,2013-03-04,2013-03-04,,Need,65|110|69,Leisure activities|Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,640,Activities for older people,Live,Service
+67,Sports and physical activity,Live,,2013-03-04,2013-03-04,,Need,65|110|69,Leisure activities|Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,1789,Exercise and fitness classes,Live,Service
+67,Sports and physical activity,Live,,2013-03-04,2013-03-04,,Need,65|110|69,Leisure activities|Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,465,Fishing ,Live,Service
+67,Sports and physical activity,Live,,2013-03-04,2013-03-04,,Need,65|110|69,Leisure activities|Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,241,Inclusive leisure and social activities,Live,Service
+67,Sports and physical activity,Live,,2013-03-04,2013-03-04,,Need,65|110|69,Leisure activities|Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,456,Leisure passes,Live,Service
+67,Sports and physical activity,Live,,2013-03-04,2013-03-04,,Need,65|110|69,Leisure activities|Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,336,Municipal golf courses,Live,Service
+67,Sports and physical activity,Live,,2013-03-04,2013-03-04,,Need,65|110|69,Leisure activities|Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,1793,Outdoor activities,Live,Service
+67,Sports and physical activity,Live,,2013-03-04,2013-03-04,,Need,65|110|69,Leisure activities|Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,1081,Outdoor activity centres,Live,Service
+67,Sports and physical activity,Live,,2013-03-04,2013-03-04,,Need,65|110|69,Leisure activities|Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,455,Sporting club grants,Discontinued,Service
+67,Sports and physical activity,Live,,2013-03-04,2013-03-04,,Need,65|110|69,Leisure activities|Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,641,Sports clubs and groups,Live,Service
+67,Sports and physical activity,Live,,2013-03-04,2013-03-04,,Need,65|110|69,Leisure activities|Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,885,Sports development,Live,Service
+67,Sports and physical activity,Live,,2013-03-04,2013-03-04,,Need,65|110|69,Leisure activities|Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,881,Sports equipment hire,Live,Service
+67,Sports and physical activity,Live,,2013-03-04,2013-03-04,,Need,65|110|69,Leisure activities|Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,451,Sports facilities,Live,Service
+67,Sports and physical activity,Live,,2013-03-04,2013-03-04,,Need,65|110|69,Leisure activities|Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,639,Sports grants,Live,Service
+67,Sports and physical activity,Live,,2013-03-04,2013-03-04,,Need,65|110|69,Leisure activities|Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,1674,Swimming pools and water based activities,Live,Service
+67,Sports and physical activity,Live,,2013-03-04,2013-03-04,,Need,65|110|69,Leisure activities|Improved health and wellbeing|Social inclusion,Improved health and wellbeing,,is addressed by,643,Young people's organised activities,Discontinued,Service
+112,Stopping smoking,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,110,Improved health and wellbeing,Improved health and wellbeing,,is addressed by,1746,Stopping smoking,Live,Service
+118,Mobility,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,,,,,,,,,
+117,Accessible transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|69,Mobility|Social inclusion,Mobility,,is addressed by,280,Bus passes for disabled or older people,Live,Service
+117,Accessible transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|69,Mobility|Social inclusion,Mobility,,is addressed by,272,Community and accessible transport,Live,Service
+117,Accessible transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|69,Mobility|Social inclusion,Mobility,,is addressed by,901,Demand responsive transport,Live,Service
+117,Accessible transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|69,Mobility|Social inclusion,Mobility,,is addressed by,275,Disabled taxi card,Live,Service
+117,Accessible transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|69,Mobility|Social inclusion,Mobility,,is addressed by,276,Motability scheme,Live,Service
+117,Accessible transport,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118|69,Mobility|Social inclusion,Mobility,,is addressed by,221,Rail cards for disabled or older people,Live,Service
+120,Travel pass or permit,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118,Mobility,Mobility,,is addressed by,280,Bus passes for disabled or older people,Live,Service
+120,Travel pass or permit,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118,Mobility,Mobility,,is addressed by,279,Disabled parking permits,Live,Service
+120,Travel pass or permit,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118,Mobility,Mobility,,is addressed by,275,Disabled taxi card,Live,Service
+120,Travel pass or permit,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,118,Mobility,Mobility,,is addressed by,907,Transport tickets and passes,Live,Service
+121,Safe and appropriate home,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,,,,,,,,,
+116,Planning permission,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,1158,Development control enforcement,Live,Service
+116,Planning permission,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,487,Full planning applications,Live,Service
+116,Planning permission,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,1707,Local development order,Live,Service
+116,Planning permission,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,1709,Neighbourhood development order,Live,Service
+116,Planning permission,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,1730,Outline planning consent,Live,Service
+116,Planning permission,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,516,Planning decision notices,Live,Service
+116,Planning permission,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,1737,Planning pre-application advice,Live,Service
+116,Planning permission,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,1735,Removal/variation of planning conditions,Live,Service
+116,Planning permission,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,485,Residential planning applications,Live,Service
+116,Planning permission,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,1785,Self-build and custom build register,Live,Service
+82,Residential care,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,293,Adult hospice care,Live,Service
+82,Residential care,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,1121,Adult placement,Live,Service
+82,Residential care,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,292,Adult residential care,Live,Service
+82,Residential care,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,264,Hospice care for children and young people,Live,Service
+82,Residential care,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,263,Residential care for children and young people,Live,Service
+82,Residential care,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,260,Respite care for children and young people,Live,Service
+82,Residential care,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,229,Shared care for adults,Live,Service
+82,Residential care,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,261,Shared care for children and young people,Live,Service
+82,Residential care,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,107,Sheltered and supported housing,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,650,Accommodation certificates,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,292,Adult residential care,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,1123,Affordable housing,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,86,Allocated council homes,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,77,Asylum seekers and refugee support,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,913,Empty residential properties,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,1619,Ending housing tenancy,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,85,Hard to let properties,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,1714,Hostels and emergency accommodation,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,912,House clearance and re-housing,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,716,Houses in multiple occupation register,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,87,Housing association  nomination and registration,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,911,Housing referrals,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,713,Introductory council tenancies,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,1719,Local authority mortgage scheme (LAMS),Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,88,Mutual home exchange,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,92,Registering for a council property,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,151,Right to buy your home,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,1720,Shared home ownership,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,107,Sheltered and supported housing,Live,Service
+73,Somewhere to live,Live,,2013-03-04,2013-03-04,,Need,121,Safe and appropriate home,Safe and appropriate home,,is addressed by,1617,Tenant references,Live,Service
+69,Social inclusion,Live,,2013-03-04,2013-03-04,,Need,,,,,,,,,
+71,Community facilities,Live,,2013-03-04,2013-03-04,,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,642,Activities for children and young people,Live,Service
+71,Community facilities,Live,,2013-03-04,2013-03-04,,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,640,Activities for older people,Live,Service
+71,Community facilities,Live,,2013-03-04,2013-03-04,,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,448,Archives,Live,Service
+71,Community facilities,Live,,2013-03-04,2013-03-04,,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,1149,Community centres,Live,Service
+71,Community facilities,Live,,2013-03-04,2013-03-04,,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,755,Community facility grants,Live,Service
+71,Community facilities,Live,,2013-03-04,2013-03-04,,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,296,Day centres,Live,Service
+71,Community facilities,Live,,2013-03-04,2013-03-04,,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,241,Inclusive leisure and social activities,Live,Service
+71,Community facilities,Live,,2013-03-04,2013-03-04,,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,437,Library facilities,Live,Service
+71,Community facilities,Live,,2013-03-04,2013-03-04,,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,444,Mobile libraries,Live,Service
+71,Community facilities,Live,,2013-03-04,2013-03-04,,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,1081,Outdoor activity centres,Live,Service
+71,Community facilities,Live,,2013-03-04,2013-03-04,,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,670,Outdoor play facilities,Live,Service
+71,Community facilities,Live,,2013-03-04,2013-03-04,,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,461,Parks and open spaces,Live,Service
+71,Community facilities,Live,,2013-03-04,2013-03-04,,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,451,Sports facilities,Live,Service
+71,Community facilities,Live,,2013-03-04,2013-03-04,,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,1674,Swimming pools and water based activities,Live,Service
+71,Community facilities,Live,,2013-03-04,2013-03-04,,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,643,Young people's organised activities,Discontinued,Service
+115,Hobbies and interests,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,1791,Arts  and creative classes,Live,Service
+115,Hobbies and interests,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,838,Arts organisations and events,Live,Service
+115,Hobbies and interests,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,468,Countryside events,Live,Service
+115,Hobbies and interests,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,624,Exhibitions,Live,Service
+115,Hobbies and interests,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,465,Fishing ,Live,Service
+115,Hobbies and interests,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,733,Local attractions and facilities,Live,Service
+115,Hobbies and interests,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,336,Municipal golf courses,Live,Service
+115,Hobbies and interests,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,1018,Museum collections,Live,Service
+115,Hobbies and interests,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,1020,Museum events and exhibitions,Live,Service
+115,Hobbies and interests,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,620,Museums and galleries,Live,Service
+115,Hobbies and interests,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,1517,Music rooms and recording studios,Live,Service
+115,Hobbies and interests,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,1540,Nature reserves,Live,Service
+115,Hobbies and interests,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,463,Outdoor events,Live,Service
+115,Hobbies and interests,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,451,Sports facilities,Live,Service
+115,Hobbies and interests,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,1674,Swimming pools and water based activities,Live,Service
+115,Hobbies and interests,Live,,2017-01-04,2017-01-04,Added in April 2017 review,Need,65|69,Leisure activities|Social inclusion,Social inclusion,,is addressed by,1109,Zoos and farm parks,Live,Service
+38,Language/cultural support,Live,,2013-03-04,2013-03-04,,Need,69,Social inclusion,Social inclusion,,is addressed by,77,Asylum seekers and refugee support,Live,Service
+38,Language/cultural support,Live,,2013-03-04,2013-03-04,,Need,69,Social inclusion,Social inclusion,,is addressed by,852,Citizenship ceremonies,Live,Service
+38,Language/cultural support,Live,,2013-03-04,2013-03-04,,Need,69,Social inclusion,Social inclusion,,is addressed by,895,Citizenship education,Live,Service
+38,Language/cultural support,Live,,2013-03-04,2013-03-04,,Need,69,Social inclusion,Social inclusion,,is addressed by,169,Translation and interpreting,Live,Service
+38,Language/cultural support,Live,,2013-03-04,2013-03-04,,Need,69,Social inclusion,Social inclusion,,is addressed by,737,Traveller children support,Live,Service

@@ -1,0 +1,20 @@
+---
+layout: page
+permalink: "/services/{{ service.Identifier | slug }}-{{ service.Label | slug }}/"
+---
+
+<p class="govuk-body">{{ service["Description"] | safe }}</p>
+
+<h2>Satisfies these needs:</h2>
+
+<ol>
+    {% for need in needs %}
+        <li>
+            <a href="/needs/{{ need["Mapped identifier"] }}-{{ need["Mapped label"] | slug }}">
+                {{ need["Mapped label"] | safe }}
+            </a>
+        </li>
+    {% else %}
+        <li>No needs</li>
+    {% endfor %}
+</ol>

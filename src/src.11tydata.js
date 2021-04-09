@@ -1,10 +1,10 @@
 // Global defaults
-module.exports = {
+// module.exports = {
   // layout: "page",
-  eleventyComputed: {
-    eleventyNavigation: {
-      key: (data) => data.title,
-      parent: (data) => data.parent,
-    },
-  },
-};
+  // eleventyComputed: {
+  //   eleventyNavigation: {
+  //     key: (data) => data.title,
+  //     parent: (data) => data.parent,
+  //   },
+  // },
+// };
