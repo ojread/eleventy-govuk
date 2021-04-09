@@ -1,3 +1,20 @@
-{{ collections.all | eleventyNavigation | eleventyNavigationToHtml({
+{# {{ collections.all | eleventyNavigation | eleventyNavigationToHtml({
+    listClass: "govuk-list"
+}) | safe }} #}
+
+{% set navPages = collections.all | eleventyNavigation %}
+{% if navPages[0].children %}
+    {% set navPages = navPages[0].children %}
+{% endif %}
+
+{{ navPages | eleventyNavigationToHtml({
     listClass: "govuk-list"
 }) | safe }}
+
+{# <ul>
+    {%- for entry in navPages %}
+    <li{% if entry.url == page.url %} class="my-active-class"{% endif %}>
+        <a href="{{ entry.url | url }}">{{ entry.title }}</a>
+    </li>
+    {%- endfor %}
+</ul> #}

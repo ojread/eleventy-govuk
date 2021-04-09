@@ -22,9 +22,15 @@
     "datatables.net": "^1.10.24",
     "datatables.net-dt": "^1.10.24",
     "eleventy-plugin-sass": "^1.2.0",
+    "fs-extra-promise": "^1.0.1",
     "govuk-frontend": "^3.11.0",
+    "jsonld": "^4.0.1",
+    "n3": "^1.8.1",
     "nunjucks": "^3.2.3",
     "prettier": "^2.2.1",
+    "rdflib": "^2.2.0",
+    "rdfstore": "^0.9.17",
+    "taffy": "^2.6.2",
     "xlsx": "^0.16.9"
   }
 }

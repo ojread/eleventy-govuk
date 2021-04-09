@@ -1,0 +1,34 @@
+---
+layout: page
+permalink: "/needs/{{ need.Identifier | slug }}-{{ need.Label | slug }}/"
+---
+
+<p class="govuk-body">{{ need["Description"] | safe }}</p>
+
+{% if childNeeds | length %}
+    {# <h2>Child needs:</h2> #}
+    <ul>
+        {% for childNeed in childNeeds %}
+            <li>
+                <a href="/needs/{{ childNeed["Identifier"] | slug }}-{{ childNeed["Label"] | slug }}">
+                    {{ childNeed["Label"] | safe }}
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+{% endif %}
+
+{% if services | length %}
+    <h2>Satisfied by these services:</h2>
+    <ul>
+        {% for service in services %}
+            <li>
+                <a href="/services/{{ service["Mapped identifier"] | slug }}-{{ service["Mapped label"] | slug }}">
+                    {{ service["Mapped label"] | safe }}
+                </a>
+            </li>
+        {% else %}
+            <li>No services</li>
+        {% endfor %}
+    </ul>
+{% endif %}

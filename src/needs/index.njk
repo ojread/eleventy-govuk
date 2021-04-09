@@ -1,0 +1,19 @@
+---
+title: Needs
+layout: page
+eleventyNavigation:
+    key: Needs
+    parent: Home
+---
+
+<ul>
+    {% for need in needs %}
+        <li>
+            <a href="/needs/{{ need.Identifier | slug }}-{{ need.Label | slug }}/">
+                {{ need["Label"] | safe }}
+            </a>
+        </li>
+    {% else %}
+        <li>No needs</li>
+    {% endfor %}
+</ul>

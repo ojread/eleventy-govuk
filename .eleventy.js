@@ -3,6 +3,12 @@ const sassPlugin = require("eleventy-plugin-sass");
 const navigationPlugin = require("@11ty/eleventy-navigation");
 const csvParse = require("csv-parse/lib/sync");
 // const XLSX = require("xlsx");
+// const jsonld = require("jsonld");
+// const N3 = require('n3'); // RDF parser.
+// const jsonld = require("jsonld");
+// const $rdf = require("rdflib");
+// const rdfstore = require("rdfstore");
+const taffy = require("taffy");
 
 module.exports = function (eleventyConfig) {
   // Create custom nunjucks instance that can see the govuk templates.
@@ -39,10 +45,47 @@ module.exports = function (eleventyConfig) {
   //   return csv;
   // });
 
+  // rdfstore
+  // eleventyConfig.addDataExtension("ttl", (contents) => {
+  //   const s = new rdfstore.Store(function(err, store) {
+  //     store.load("text/turtle", contents, function(err, results) {});
+  //   });
+  //   // console.log(s);
+  //   return s;
+  // });
+
+  // rdflib
+  // eleventyConfig.addDataExtension("ttl", (contents) => {
+  //   var store = $rdf.graph();
+  //   var uri = "http://id.esd.org.uk";
+  //   var mimeType = "text/turtle";
+
+  //   try {
+  //     $rdf.parse(contents, store, uri, mimeType);
+  //     // console.log(store);
+  //     return store;
+  //   } catch (err) {
+  //     console.log(err);
+  //   }
+  // });
+
+  eleventyConfig.addDataExtension("jsonld", (contents) => {
+    const data = JSON.parse(contents);
+    return data["@graph"] ? data["@graph"] : data;
+  });
+
+  // eleventyConfig.addDataExtension("jsonld", (contents) => {
+  //   const data = JSON.parse(contents);
+  //   const root = data["@graph"] ? data["@graph"] : data;
+  //   const db = taffy(root);
+  //   return db;
+  // });
+
   // Load CSV files as data.
   eleventyConfig.addDataExtension("csv", (contents) => {
     const records = csvParse(contents, {
       skip_empty_lines: true,
+      columns: true,
     });
     return records;
   });
@@ -89,23 +132,37 @@ module.exports = function (eleventyConfig) {
     return md.render(content);
   });
 
-  eleventyConfig.addFilter("log", (value) => {
-    console.log(value);
-  });
-
   eleventyConfig.addFilter("toGovukBreadcrumbs", function (value) {
     return value.map((item) => {
       return { text: item.title, href: item.url };
     });
   });
 
+  // When CSV is loaded as arrays.
+  // eleventyConfig.addFilter("toGovukTable", function (records) {
+  //   const head = records[0].map((key) => {
+  //     return { text: key };
+  //   });
+  //   const rows = records.slice(1).map((record) =>
+  //     record.map((key) => {
+  //       return { text: key };
+  //     })
+  //   );
+  //   return {
+  //     head,
+  //     rows,
+  //   };
+  // });
+
+  // When CSV is loaded as column objects.
   eleventyConfig.addFilter("toGovukTable", function (records) {
-    const head = records[0].map((key) => {
-      return { text: key };
+    const columns = Object.keys(records[0]);
+    const head = columns.map((column) => {
+      return { text: column };
     });
     const rows = records.slice(1).map((record) =>
-      record.map((key) => {
-        return { text: key };
+      columns.map((column) => {
+        return { text: record[column] };
       })
     );
     return {
