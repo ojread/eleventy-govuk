@@ -1,10 +1,11 @@
 ---
+layout: base
 pagination:
   data: tables
   size: 1
   alias: table
 permalink: "/datatables/{{ table | slug }}/"
-renderData:
+eleventyComputed:
   title: "{{ table }}"
 ---
 
