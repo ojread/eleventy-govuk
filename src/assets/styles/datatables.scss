@@ -1,0 +1,72 @@
+// Apply govuk styles to datatables.
+
+@import "node_modules/govuk-frontend/govuk/all";
+
+.dataTables_wrapper{
+  @extend .govuk-grid-row;
+
+  label {
+    @extend .govuk-label;
+  }
+
+  .dataTables_info {
+    @extend .govuk-body;
+  }
+
+  .dataTables_length, .dataTables_filter {
+    @extend .govuk-grid-column-one-half;
+    @extend .govuk-form-group;
+
+    select {
+      @extend .govuk-select;
+    }
+
+    input {
+      @extend .govuk-input;
+      width: auto;
+      margin-left: 1rem;
+    }
+  }
+
+  .dataTables_filter {
+    @include govuk-media-query($from: tablet) {
+      text-align: right;
+    }
+  }
+
+  .dataTables_paginate {
+    @extend .govuk-button-group;
+  
+    & > span {
+      @extend .govuk-button-group;
+      display: none;
+      margin-right: 0;
+
+      @include govuk-media-query($from: tablet) {
+        display: block;
+      }
+    }
+  }
+    
+  .paginate_button {
+    @extend .govuk-button;
+    vertical-align: initial;
+
+    &:not(.current) {
+      @extend .govuk-button--secondary;
+    }
+
+    &.disabled {
+      @extend .govuk-button--disabled;
+
+      &:hover {
+        background-color: govuk-colour("light-grey");
+      }
+    }
+  }
+
+  .ellipsis {
+    margin-right: 15px;
+  }
+
+}
